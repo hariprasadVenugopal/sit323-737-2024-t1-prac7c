@@ -1,0 +1,35 @@
+{"level":"info","message":"New addition operation requested : 100+100.","service":"calculator-microservice"}
+{"level":"error","message":"num1 is incorrectly defined","service":"calculator-microservice"}
+{"level":"error","service":"calculator-microservice"}
+{"level":"error","message":"num2 is incorrectly defined","service":"calculator-microservice"}
+{"level":"error","service":"calculator-microservice"}
+{"level":"info","message":"New division operation requested : 100/100.","service":"calculator-microservice"}
+{"level":"info","message":"New division operation requested : 100/0.","service":"calculator-microservice"}
+{"level":"error","message":"Division by zero is not possible","service":"calculator-microservice"}
+{"level":"error","service":"calculator-microservice"}
+{"level":"info","message":"New exponentiation operation requested : 100^100.","service":"calculator-microservice"}
+{"level":"info","message":"New square root operation requested : 100.","service":"calculator-microservice"}
+{"level":"error","message":"only num1 should be given for square root operation","service":"calculator-microservice"}
+{"level":"error","service":"calculator-microservice"}
+{"level":"info","message":"New modulo operation requested : 100%100.","service":"calculator-microservice"}
+{"level":"info","message":"New addition operation requested : 100+100.","service":"calculator-microservice"}
+{"level":"info","message":"New subtraction operation requested : 100-100.","service":"calculator-microservice"}
+{"level":"info","message":"New subtraction operation requested : 200-100.","service":"calculator-microservice"}
+{"level":"info","message":"New multiplication operation requested : 100*100.","service":"calculator-microservice"}
+{"level":"info","message":"New division operation requested : 100/100.","service":"calculator-microservice"}
+{"level":"info","message":"New exponentiation operation requested : 100^100.","service":"calculator-microservice"}
+{"level":"info","message":"New square root operation requested : 100.","service":"calculator-microservice"}
+{"level":"info","message":"New modulo operation requested : 100%100.","service":"calculator-microservice"}
+{"level":"info","message":"New modulo operation requested : 100%123.","service":"calculator-microservice"}
+{"level":"info","message":"New modulo operation requested : 1200%123.","service":"calculator-microservice"}
+{"level":"info","message":"New division operation requested : 100/100.","service":"calculator-microservice"}
+{"level":"info","message":"New division operation requested : 100/0.","service":"calculator-microservice"}
+{"level":"error","message":"Division by zero is not possible","service":"calculator-microservice"}
+{"level":"error","service":"calculator-microservice"}
+{"level":"info","message":"New square root operation requested : 100.","service":"calculator-microservice"}
+{"level":"error","message":"only num1 should be given for square root operation","service":"calculator-microservice"}
+{"level":"error","service":"calculator-microservice"}
+{"level":"info","message":"New exponentiation operation requested : 100^100.","service":"calculator-microservice"}
+{"level":"info","message":"New square root operation requested : 100.","service":"calculator-microservice"}
+{"level":"info","message":"New modulo operation requested : 100%100.","service":"calculator-microservice"}
+{"level":"info","message":"New exponentiation operation requested : 2^3.","service":"calculator-microservice"}
